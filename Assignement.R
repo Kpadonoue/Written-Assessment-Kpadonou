@@ -1,3 +1,6 @@
 print("This file was created within RStudio")
-
 print("And now it lives on GitHub")
+library(sf) 
+library(dplyr)      
+library(ggplot2)  
+library(readr)
