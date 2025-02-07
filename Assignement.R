@@ -1,8 +1,8 @@
 ###############################
 
-# Name: KPADOUNOU E.
+# Name: KPADONOU E.
 # Date Updated: Feb 7th, 2025
-# Objective:
+# Objective: climate data analysis, spatial modeling, and crop modeling
 #   
 #     
 #           
